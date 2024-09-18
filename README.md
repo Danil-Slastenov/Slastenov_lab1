@@ -1,21 +1,2 @@
 # Slastenov_lab1
-#include <iostream>
-using namespace std;
-
-int main() {
-    int age;
-    cout << "Введіть ваш вік: ";
-    cin >> age;
-
-    if (age >= 0 && age <= 17) {
-        cout << "Ви належите до молоді." << endl;
-    } else if (age >= 18 && age <= 65) {
-        cout << "Ви належите до дорослих." << endl;
-    } else if (age >= 66) {
-        cout << "Ви належите до людей похилого віку." << endl;
-    } else {
-        cout << " Повторіть ще раз." << endl;
-    }
-
-    return 0;
-}
+https://docs.google.com/document/d/1CnfbdiGN36EuYwiKYT0wASsloefXisSoLR2XLc0RjFs/edit
